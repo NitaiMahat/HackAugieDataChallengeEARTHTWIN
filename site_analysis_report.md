@@ -1,22 +1,26 @@
 # High-Ozone Site Analysis — Where the Data Points and Why
 
+## The Chart
+
+![Top 10 Challenge Sites by Average Ozone](top10_ozone_sites_2025.png)
+
 ## What the Chart Shows
 
 The bar chart ranks the top 10 CASTNET monitoring sites by average ozone (PPB) in 2025,
 filtered to sites with at least 1,000 readings. Here are the real places behind those site IDs:
 
-| Site ID | Real Location | State | Avg Ozone | Elevation |
-|---------|--------------|-------|-----------|-----------|
-| LPO010 | La Posta (San Diego County) | California | ~52 ppb | 1,372 m |
-| CNT169 | Centennial (Albany County) | Wyoming | ~51 ppb | 3,175 m |
-| PND165 | Pinedale (Sublette County) | Wyoming | ~51 ppb | 2,386 m |
-| GTH161 | Gothic / Rocky Mtn Bio Lab | Colorado | ~50 ppb | 2,915 m |
-| ROM206 | Rocky Mountain National Park | Colorado | ~48 ppb | 2,742 m |
-| ARE128 | Arendtsville (Adams County) | Pennsylvania | ~38 ppb | 266 m |
-| ABT147 | Abington (Windham County) | Connecticut | ~37 ppb | 202 m |
-| VPI120 | Blue Grass Trail (Giles County) | Virginia | ~37 ppb | 652 m |
-| DUK008 | Duke Forest (Orange County) | North Carolina | ~37 ppb | 164 m |
-| CTH110 | Connecticut Hill (Tompkins County) | New York | ~36 ppb | 511 m |
+| Site ID | Real Location | State | Avg Ozone (measured) | Readings | Elevation |
+|---------|--------------|-------|----------------------|----------|-----------|
+| LPO010 | La Posta (San Diego County) | California | **51.2 ppb** | 3,391 | 1,372 m |
+| CNT169 | Centennial (Albany County) | Wyoming | **50.7 ppb** | 4,103 | 3,175 m |
+| PND165 | Pinedale (Sublette County) | Wyoming | **50.2 ppb** | 1,450 | 2,386 m |
+| GTH161 | Gothic / Rocky Mtn Bio Lab | Colorado | **50.0 ppb** | 3,960 | 2,915 m |
+| ROM206 | Rocky Mountain National Park | Colorado | **48.1 ppb** | 4,023 | 2,742 m |
+| ARE128 | Arendtsville (Adams County) | Pennsylvania | **38.2 ppb** | 4,052 | 266 m |
+| ABT147 | Abington (Windham County) | Connecticut | **37.6 ppb** | 2,653 | 202 m |
+| VPI120 | Blue Grass Trail (Giles County) | Virginia | **37.6 ppb** | 4,033 | 652 m |
+| DUK008 | Duke Forest (Orange County) | North Carolina | **37.3 ppb** | 4,010 | 164 m |
+| CTH110 | Connecticut Hill (Tompkins County) | New York | **37.2 ppb** | 4,054 | 511 m |
 
 ---
 
