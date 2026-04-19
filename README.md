@@ -111,13 +111,6 @@ The dotted vertical rule at 2025 marks the switch to the supplement data source.
 
 Three-bar comparison showing the average ozone level across all scenarios. Use this as a supporting slide to show the aggregate difference in plain numbers — the green bar is what Earth Twin delivers.
 
----
-
-### 3. Monthly Baseline — Ozone Seasonality
-
-![Monthly Ozone Baseline](monthly_ozone_baseline.png)
-
-Monthly average ozone across the full 2020–2025 study period. Shows when construction risk peaks — **June hits 39.26 ppb**, nearly double December's 20.02 ppb. Use this if judges ask *when* to apply the planning tool most urgently.
 
 ---
 
