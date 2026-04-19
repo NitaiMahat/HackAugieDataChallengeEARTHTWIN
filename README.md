@@ -96,7 +96,7 @@ The gap between the red line (no mitigation) and the green line (Earth Twin plan
 
 ![Ozone Scenario Comparison 2020–2025](ozone_scenario_comparison_2020_2025.png)
 
-**This is your primary presentation slide.** Three lines across all six years:
+Three lines across all six years:
 - **Blue** — Baseline (real measured EPA/CASTNET data)
 - **Red** — Without Mitigation (modeled: +8% above baseline each year)
 - **Green** — With Earth Twin Planning (modeled: −5% below baseline each year)
